@@ -1,0 +1,8 @@
+{
+  "name": "blindSignature",
+  "version": "1.0.0",
+  "dependencies": {},
+  "devDependencies": {
+    "browser-md5-file": "^1.1.1"
+  }
+}
